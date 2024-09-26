@@ -20,11 +20,3 @@ You can view the live website here: [Portfolio Website](https://yourwebsite.com)
 - **Google Fonts**: For typography
 
 Thank you for visiting my website!
-
-### Prerequisites
-
-You only need a web browser to view the site locally or deploy it online. To clone and view this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio-website.git
